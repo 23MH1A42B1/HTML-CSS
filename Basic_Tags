@@ -1,0 +1,67 @@
+<html>
+    <head>
+        <title>Basic HTML Tags</title>
+    </head>
+    <body>
+        <h1>Hello, World!</h1>
+        <h2>This is a subheading</h2>
+        <h3>This is a smaller heading</h3>
+        <h4>This is an even smaller heading</h4>
+        <h5>This is a tiny heading</h5> 
+        <h6>This is the smallest heading</h6>
+        <hr>
+        <p>This is a paragraph of text. Paragraphs are used to group sentences together.</p>
+        <br>
+        <hr>
+        <pre> 
+This is preformatted text.
+It preserves both spaces and line breaks.   
+Useful for code snippets or ASCII art.
+        </pre>
+        <hr>
+        <a href="https://www.google.com">This is a hyperlink to Google.com</a>
+        <hr>
+        <img src="https://via.placeholder.com/150" alt="Placeholder Image">
+        <hr>
+        <b>This text is bold.</b>
+        <br>
+        <i>This text is italicized.</i>
+        <br>
+        <u>This text is underlined.</u>
+        <br>
+        <s>This text is strikethrough.</s>
+        <hr>
+        <code>This is a code snippet.</code>
+        <hr>
+        <strong>This text is strongly emphasized.</strong>
+        <br>
+        <em>This text is emphasized.</em>
+        <hr>
+        <small>This text is small.</small>
+        <br>
+        <mark>This text is highlighted.</mark>
+        <hr>
+        <sub>This is subscript text.</sub>
+        <br>
+        <sup>This is superscript text.</sup>
+        <hr>
+        <blockquote>This is a blockquote. It is used to indicate a section that is quoted
+from another source.</blockquote>
+
+        <hr>
+        <del>This text is deleted.</del>
+        <br>
+        <ins>This text is inserted.</ins>
+        <hr>
+        <kbd>This text represents keyboard input.</kbd>
+        <br>
+        <var>This text represents a variable.</var>
+        <br>
+        <samp>This text represents sample output from a program.</samp>
+        <hr>
+        <q>This is an inline quotation.</q>
+        <br>
+        <cite>This is a citation.</cite>
+        <hr>
+    </body>
+</html>
