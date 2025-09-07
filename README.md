@@ -5,3 +5,5 @@ Each day I create a small project or example to improve my frontend development 
 
 ## Progress
 -Basic html structure
+-Basic HTML Tags
+-HTML Buttons
