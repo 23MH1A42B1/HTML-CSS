@@ -14,6 +14,13 @@
             height: 36px;
             width: 105px;
             cursor: pointer;
+            transition: opacity 0.15s;
+        }
+        .subscribe:hover{
+            opacity: 0.8;
+        }
+        .subscribe:active{
+            opacity: 0.6;
         }
         .facebook{
             background-color: white;
@@ -23,6 +30,14 @@
             width: 80px;
             border-radius: 2px;
             cursor: pointer;
+            transition: background-color 1s,opacity 0.15s,color 1s;
+        }
+        .facebook:hover{
+            background-color: rgb(63, 118, 219);
+            color:white;
+        }
+        .facebook:active{
+            opacity:0.5;
         }
         .twitter{
             background-color: rgb(17, 120, 188);
@@ -34,6 +49,10 @@
             margin-left: 8px;
             font-weight: bold;
         }
+        .twitter:hover{
+            box-shadow: 3px 5px 4px rgba(0,0 ,0,0.3);
+        }
+
     </style>
 </head>
 <body>
