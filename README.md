@@ -7,3 +7,5 @@ Each day I create a small project or example to improve my frontend development 
 -Basic html structure <br>
 -Basic HTML Tags<br>
 -HTML Buttons<br>
+-HTML Text<br>
+
