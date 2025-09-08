@@ -5,7 +5,7 @@ Each day I create a small project or example to improve my frontend development 
 
 ## Progress
 -Basic html structure <br>
--Basic HTML Tags<br>
+- [Basic HTML Tags](https://github.com/23MH1A42B1/HTML-CSS/blob/main/Basic_Tags.html)<br>
 -HTML Buttons<br>
 -HTML Text<br>
 
